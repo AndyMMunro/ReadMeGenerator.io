@@ -36,4 +36,4 @@ You can find more of my work at agovitadventures@gmil.com.
 
 
 VIDEO LINK
-https://drive.google.com/file/d/17fRGoq1NTV32Z3_2sYbFHow4c9P46SaL/view
+https://drive.google.com/file/d/17fRGoq1NTV32Z3_2sYbFHow4c9P46SaL/view?usp=sharing
