@@ -2,32 +2,32 @@
 function generateMarkDown(answers) {
   return `
   
-  # ${answers.title}
+  ## ${answers.title}
   
-  #${answers.description}
+  ## Description
+  ${answers.description}
   
   ## Table Of Contents 
    
-  #Installation
-  #usage
-  #license 
-  #contributing
-  #test
-  #questions
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Questions](#questions)
+  * [Test](#test)
 
-  ##Installation
+  Installation
   ${answers.installation}
  
-  ##Usage
+  Usage
   ${answers.usage}
   
-  ##License 
+  License 
   ${answers.Licenses}
   
-  #Contributing
+  Contributing
   ${answers.contributing}
   
-  #Test
+  Test
   ${answers.testing}
 
 ## Questions 

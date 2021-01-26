@@ -6,6 +6,7 @@ const util = require("util");
 
 const writeFile = util.promisify(fs.writeFile);
 
+
 function promptUser() {
     return inquirer.prompt([
         {
