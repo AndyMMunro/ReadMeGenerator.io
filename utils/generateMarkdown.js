@@ -15,22 +15,22 @@ function generateMarkDown(answers) {
   * [Questions](#questions)
   * [Test](#test)
 
-  Installation
+  Installation:
   ${answers.installation}
  
-  Usage
+  Usage:
   ${answers.usage}
   
-  License 
+  License:
   ${answers.Licenses}
   
-  Contributing
+  Contributing:
   ${answers.contributing}
   
-  Test
+  Test:
   ${answers.testing}
 
-## Questions 
+## Questions: 
 If you have any questions about the repo,
 open an issue or contact me directly at ${answers.username}. 
 You can find more of my work at ${answers.email}.

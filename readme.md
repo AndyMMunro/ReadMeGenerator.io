@@ -1,9 +1,9 @@
 
   
-  ## asdfasdf
+  ## Portfoilo in react 
   
   ## Description
-  asdfasdf
+  show case of work and projects as well as skill set 
   
   ## Table Of Contents 
    
@@ -13,23 +13,23 @@
   * [Questions](#questions)
   * [Test](#test)
 
-  Installation
-  asdfasdf
+  Installation:
+  go to page URL below 
  
-  Usage
-  asdfadsf
+  Usage:
+  https://andymmunro.github.io/reactportfolio.io/ 
   
-  License 
+  License:
   MIT
   
-  Contributing
-  asdfasf
+  Contributing:
+  Andy M
   
-  Test
-  asdfasdf
+  Test:
+  NA
 
-## Questions 
+## Questions: 
 If you have any questions about the repo,
-open an issue or contact me directly at sadsf. 
-You can find more of my work at asdfasdf.
+open an issue or contact me directly at AndyMMunro. 
+You can find more of my work at andymunro87@gmail.com.
 
